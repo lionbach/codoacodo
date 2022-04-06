@@ -1,0 +1,23 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.cuadrado{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+ p{
+    font-size: 30px;
+    margin: 0px;
+ }
+.bg-red{
+    background-color: red;
+    color: yellow;
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
